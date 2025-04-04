@@ -19,7 +19,7 @@ The Weather Web App is a simple and interactive web application that allows user
 How to Use
 Clone or download this repository.
 
-git clone https://github.com/your-username/weather-web-app.git
+git clone https://github.com/arnav200525/Weather-Web_App.git
 
 
 **API Key**
