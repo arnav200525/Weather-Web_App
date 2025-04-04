@@ -30,4 +30,9 @@ git clone https://github.com/arnav200525/Weather-Web_App.git
 **Note: This project has no license and is intended for educational purposes only.**
 
 
+                                                           **Screenshots**
+                                                             
+![Screenshot (9)](https://github.com/user-attachments/assets/fd7336a5-d274-4821-b046-aae1b0da73bc)
+![Screenshot (10)](https://github.com/user-attachments/assets/4a7285ae-9df3-45e8-8b92-38c3987acfbf)
+
 
