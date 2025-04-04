@@ -16,17 +16,15 @@ The Weather Web App is a simple and interactive web application that allows user
  - JavaScript
  - OpenWeatherMap API
 
-How to Use
-Clone or download this repository.
-
-git clone https://github.com/arnav200525/Weather-Web_App.git
-
-
 **API Key**
  - To make the web-app work, you need to generate your API key:
  - Go to OpenWeatherMap.
  - Sign up for an account and generate an API key.
- - Replace the placeholder API key in the script.js file with your own key:
+ - Replace the placeholder API key in the script.js file with your own key
+
+**How to Use**
+Clone or download this repository.
+git clone https://github.com/arnav200525/Weather-Web_App.git
 
 
 **Note: This project has no license and is intended for educational purposes only.**
